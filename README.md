@@ -6,7 +6,8 @@
 
 ### Evaluate Techniques for Wifi Locationing
 
-Indoor locationing: Determining a person’s physical position in a multi-building indoor space using wifi fingerprinting by using this Data Set: [UJIIndoorLoc Data Set](http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)
+Indoor locationing: Determining a person’s physical position in a multi-building indoor space using wifi fingerprinting. 
+I used this Data Set for training and evaluation: [UJIIndoorLoc Data Set](http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)
 </p><br></p>
 
 ### Visualization of UserID by Building & Floor Using Coordinates
