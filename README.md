@@ -9,7 +9,7 @@
 Indoor locationing: Determining a person’s physical position in a multi-building indoor space using wifi fingerprinting by using this Data Set: [UJIIndoorLoc Data Set](http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)
 </p><br></p>
 
-### Building Wi-Fi Visualization by Floor
+### Visualization of UserID by Building & Floor Using Coordinates
 
 ![Building Wi-Fi Visualization](building_wifi_visualization.png)
 
